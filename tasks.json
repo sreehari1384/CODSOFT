@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Task Solving",
+        "done": false
+    },
+    {
+        "title": "Course studying",
+        "done": true
+    },
+    {
+        "title": "workout",
+        "done": false
+    },
+    {
+        "title": "Relaxation",
+        "done": false
+    }
+]
